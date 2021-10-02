@@ -1,0 +1,11 @@
+.image{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+        & a{
+            & img{
+                width: 20%;
+                cursor: pointer;
+        }
+    }
+}

@@ -1,0 +1,12 @@
+.pagination{
+    margin: auto;
+    text-align: center;
+    & h1{
+        font-size: 1.5rem;
+        color: grey;
+    }
+    & button{
+        margin: 1rem;
+        padding: 0.5rem 2rem;
+    }
+}

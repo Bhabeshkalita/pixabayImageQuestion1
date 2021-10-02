@@ -1,0 +1,11 @@
+.searchbar{
+    margin: 1rem;
+    text-align: center;
+    
+    & input{
+        padding: 0.5rem 1.55rem;
+        font-size: 1.5rem;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+}
